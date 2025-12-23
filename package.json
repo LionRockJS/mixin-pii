@@ -1,8 +1,8 @@
 {
   "type": "module",
-  "name": "@lionrockjs/mixin-form",
+  "name": "@lionrockjs/mixin-pii",
   "version": "0.0.6",
-  "description": "Form Post handling for LionRockJS",
+  "description": "LionRockJS mixin for Personal Identifiable Information",
   "main": "index.js",
   "scripts": {
     "test": "node --experimental-vm-modules ../../../node_modules/jest/bin/jest.js --coverage"
